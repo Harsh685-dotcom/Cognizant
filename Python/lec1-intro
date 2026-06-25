@@ -1,0 +1,49 @@
+** python :
+
+=> Python is a high-level, easy-to-learn programming language widely used for:
+Web development
+Data analysis
+Artificial Intelligence (AI)
+Machine Learning
+
+* Python is popular because its syntax is simple.
+
+* A procedural programming language is a type of programming language in which a  program is written as a sequence of instructions (procedures or functions) that tell the computer what to do step by step.
+
+* Python is both procedural and object oriented programming language.
+
+----------------------------------------------------------------------------------------
+
+** Interpreter and Compiler:
+
+=> Compiler approach
+
+A translator converts the entire English book into French first.
+
+English Book
+    ↓
+Translator
+    ↓
+French Book
+
+Now you can read the French book yourself.
+
+Interpreter approach
+
+A translator stands next to you.
+
+English Sentence
+       ↓
+Translator
+       ↓
+French Explanation
+
+For each sentence, the translator explains it immediately.
+
+You never receive a full translated book
+
+* Compiled Language	Interpreted Language
+Machine code generated before running	Translation happens while running
+CPU executes generated executable directly	CPU executes the interpreter, which processes your code
+Example: C, C++	Example: Python, JavaScript
+
