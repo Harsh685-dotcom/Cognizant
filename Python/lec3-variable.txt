@@ -1,0 +1,72 @@
+* print()  is a function return none.
+
+* """abc """ or ''' abc''' for multi line text we use triplet.
+
+* Escape Sequence :
+=> '\n' , '\t' , \\ , \", 
+
+* comment can be done by # and for multi line comment '''gy'''.
+
+* sep and end:
+=>  print("Hello, World!",4,5,sep="~",end="*");
+
+---------------------------------------------------------------------
+
+
+** Datatype and variable:
+
+=> every  variable stored in ram.
+=> variable is a container used to store data or name of a  memmory 
+location where data is stored.
+
+=> datatype is a type of data  stored in a variable.
+
+
+** Built-in datatype:
+=> int , float , complex , string , bool , list , tuple , dictionary, set .
+
+** no character datatype in python.
+
+** everything in a python is object.
+
+-------------------------------------------------------------------------
+
+** operator:
+
+=> Highest: (), [], .
+Power: ** (right to left)
+Unary: +, -, ~
+Multiply/Divide: *, /, //, %
+Add/Subtract: +, -
+Shifts: <<, >>
+Bitwise: & → ^ → |
+Comparisons: <, <=, >, >=, !=, ==, in, not in, is, is not
+Logical: not → and → or
+Conditional: if ... else
+Lowest: lambda
+
+
+-------------------------------------------------------------------------
+
+** Type  conversion:
+
+=> Implicit Typeconversion:
+
+every datatype has its order has its precedence over another datatype so to protect from data loss interpreter or compiler convert the data into higher order data automatically .
+
+a = 1 .9 ;
+b = 8 
+ a+b  =  9.9;
+
+ => Explicit typerconversion :
+
+we convert the data through function or using keyword for conversion .
+
+
+-------------------------------------------------------------------------------
+
+** String :
+
+=> anything that is nclosed inside a double quotes is string .
+
+
