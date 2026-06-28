@@ -1,0 +1,18 @@
+** Module and Packages:
+
+=>  A module and a package are both used to organize Python code, but they differ in size and purpose.
+
+=> A module is a single Python file (.py) that contains functions, classes, variables, or executable code.
+
+=> A package is a directory that contains multiple modules (and possibly sub-packages).
+
+** pip:
+
+=> Python comes with many built-in modules like math and os, but many useful libraries are created by the community. pip lets you install them easily
+
+=> pip is Python's package manager. It is a command-line tool used to install, update, remove, and manage third-party Python packages from the Python Package Index (PyPI) and other sources.
+
+
+** Pandas(python -m pip instal pandas)
+
+=> Pandas is a popular Python library used for data analysis and data manipulation. It makes it easy to work with tables, spreadsheets, CSV files, Excel files, databases, and more.
